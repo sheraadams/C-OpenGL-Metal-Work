@@ -4,18 +4,25 @@
 I started this project with the intention to visually recreate this two-dimensional classroom scene in a more realistic manner using three-dimensional graphics in an interactive environment to allow for a more surreal and interesting user experience. To accomplish this, I used shapes including spheres, planes, cubes, pyramids, rectangular prisms, and modified versions of these shapes. 
 
 Before: 
-![0](https://github.com/sheraadams/499/assets/110789514/61ce2623-5d74-43a7-8710-c12dc56c3bce)
+<div align="center">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/6ee964f7-8596-4de2-ae74-5ca1a30ebf9d" width="800" alt="Screenshot: d4">
+</div>
+
 After: 
-![55](https://github.com/sheraadams/499/assets/110789514/cc988019-2e8e-47e0-bc25-8067544610a9)
+<div align="center">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/a7555de6-ef08-4614-900d-48862020b3c4" width="800" alt="Screenshot: d4">
+</div>
+
 
 With ImGui:
 <div align="center">
-  <img src="https://github.com/sheraadams/499/assets/110789514/8a264ec8-6f6b-4a13-9c44-b41efbfb4cd7" width="1000" alt="Screenshot: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/3ec229b2-bf41-4c9c-bcbf-20cf2e2188da" width="800" alt="Screenshot: d4">
 </div>
 
 ## The OpenGL Pipeline 
 <div align="center">
-  <img src="https://github.com/sheraadams/499/assets/110789514/d096b8b6-28b7-4458-81de-a8024c58bcce" width="900" alt="Screenshot: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/bc99563b-a432-4c03-8205-b944feb31223"
+ width="900" alt="Screenshot: d4">
 </div>
 
 - Initialization
@@ -148,12 +155,6 @@ Objects book;
         glBindVertexArray(0);
 ```
 
-
-<div align="center">
-  <img src="https://github.com/sheraadams/499/assets/110789514/ac0ed0af-5cba-414c-9585-fdf296140db4" width="300" alt="Screenshot: d4">
-</div>
-
-
 I implemented a Dear ImGui interface for future project development within OpenGL. Dear ImGui offers many tools to configure and manipulate our environment for efficient workflows with OpenGL and other C++ applications and it provides backend access with front end implementations. To implement ImGui, we must import the library headers and set our configuration. We must initialize ImGui in the main function. We create a window and set the layout in the render loop.  
 
 We can implement a simple ImGui window within the rendering loop with the following code: 
@@ -208,8 +209,9 @@ With ImGui, we can now resize and manipulate our objects with sliders and see th
 When we slide the xx slider to the right, the object becomes bigger on the horizontal axis. When we slide it to the left, it becomes smaller on the horizontal axis. When we slide the yy slider to the right, the object becomes bigger on the vertical axis. When we slide it to the left, the object becomes smaller on the vertical axis. 
 
 <div align="center">
-  <img src="https://github.com/sheraadams/499/assets/110789514/5c1c8c05-56f4-4047-8d56-c7d8a13c60cb" width="900" alt="Screenshot: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/1641ba8d-6399-41fc-880c-6e087bf9f12d" width="300"  alt="Screenshot: d4">
 </div>
+
 
 # Data Structures and Algorithms with OpenGL Vectors
 
@@ -219,7 +221,7 @@ For access, vectors have a worst-case runtime space complexity of O(N) where N i
 
 
 <div align="center">
-  <img src="https://github.com/sheraadams/499/assets/110789514/ac8ab195-c0a8-4490-ba4d-2d0655068f29" width="800" alt="Data Structures and Algorithms: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/d0902121-7c45-42bd-8964-b1ce65001cd2" width="800" alt="Data Structures and Algorithms: d4">
 </div>
 
 Image Credit: (Eric Drowell, n.d.) 
