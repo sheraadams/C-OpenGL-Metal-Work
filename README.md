@@ -3,21 +3,30 @@
 
 I started this project with the intention to visually recreate this two-dimensional classroom scene in a more realistic manner using three-dimensional graphics in an interactive environment to allow for a more surreal and interesting user experience. To accomplish this, I used shapes including spheres, planes, cubes, pyramids, rectangular prisms, and modified versions of these shapes. You can read about some of the process that I went through developing and improving this engine at [sheraadams.github.io](https://sheraadams.github.io) and watch my video code review linked on that page. 
 
-Find the MS Visual Studio 2022 solution [project here](https://github.com/sheraadams/example/blob/main/SWE_Enhanced.zip).
-Find the Xcode Project and cmakelist.txt [here](https://github.com/sheraadams/C-OpenGL-Metal-Work/blob/main/imgui.zip).
-Find [Source.cpp here](https://github.com/sheraadams/C-OpenGL-Metal-Work/blob/main/Source.cpp).
+- Find the MS Visual Studio 2022 solution [project here](https://github.com/sheraadams/example/blob/main/SWE_Enhanced.zip).
+- Find the Xcode Project and cmakelist.txt [here](https://github.com/sheraadams/C-OpenGL-Metal-Work/blob/main/imgui.zip).
+- Find [Source.cpp](https://github.com/sheraadams/C-OpenGL-Metal-Work/blob/main/Source.cpp) here.
 
-Before: 
+<div align="center">
+  <p>Before:</p>
+</div>
+    
 <div align="center">
   <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/6ee964f7-8596-4de2-ae74-5ca1a30ebf9d" width="800" alt="Screenshot: d4">
 </div>
 
-After: 
+<div align="center">
+  <p>After:</p>
+</div>
+    
 <div align="center">
   <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/a7555de6-ef08-4614-900d-48862020b3c4" width="800" alt="Screenshot: d4">
 </div>
 
-With ImGui:
+<div align="center">
+  <p>With Imgui:</p>
+</div>
+    
 <div align="center">
   <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/3ec229b2-bf41-4c9c-bcbf-20cf2e2188da" width="800" alt="Screenshot: d4">
 </div>
