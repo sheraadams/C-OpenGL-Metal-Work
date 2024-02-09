@@ -3,6 +3,9 @@
 
 I started this project with the intention to visually recreate this two-dimensional classroom scene in a more realistic manner using three-dimensional graphics in an interactive environment to allow for a more surreal and interesting user experience. To accomplish this, I used shapes including spheres, planes, cubes, pyramids, rectangular prisms, and modified versions of these shapes. 
 
+Find the MS Visual Studio 2022 solution [project here](https://github.com/sheraadams/example/blob/main/SWE_Enhanced.zip).
+Find the Xcode Project and cmakelist.txt [here]().
+
 Before: 
 <div align="center">
   <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/6ee964f7-8596-4de2-ae74-5ca1a30ebf9d" width="800" alt="Screenshot: d4">
