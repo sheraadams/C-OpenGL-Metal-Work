@@ -1,10 +1,11 @@
 
 # Metal/ OpenGL Engine
 
-I started this project with the intention to visually recreate this two-dimensional classroom scene in a more realistic manner using three-dimensional graphics in an interactive environment to allow for a more surreal and interesting user experience. To accomplish this, I used shapes including spheres, planes, cubes, pyramids, rectangular prisms, and modified versions of these shapes. 
+I started this project with the intention to visually recreate this two-dimensional classroom scene in a more realistic manner using three-dimensional graphics in an interactive environment to allow for a more surreal and interesting user experience. To accomplish this, I used shapes including spheres, planes, cubes, pyramids, rectangular prisms, and modified versions of these shapes. You can read about some of the process that I went through developing, and improving this engine at [sheraadams.github.io](https://sheraadams.github.io) and watch my video code review linked on that page. 
 
 Find the MS Visual Studio 2022 solution [project here](https://github.com/sheraadams/example/blob/main/SWE_Enhanced.zip).
 Find the Xcode Project and cmakelist.txt [here](https://github.com/sheraadams/C-OpenGL-Metal-Work/blob/main/imgui.zip).
+Find [Source.cpp here]().
 
 Before: 
 <div align="center">
