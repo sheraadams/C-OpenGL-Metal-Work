@@ -3,6 +3,8 @@
 
 I started this project with the intention to visually recreate this two-dimensional classroom scene in a more realistic manner using three-dimensional graphics in an interactive environment to allow for a more surreal and interesting user experience. To accomplish this, I used shapes including spheres, planes, cubes, pyramids, rectangular prisms, and modified versions of these shapes. You can read about some of the process that I went through developing and improving this engine at [sheraadams.github.io](https://sheraadams.github.io) and watch my video code review linked on that page. 
 
+I have addeed several of the C++ files required to run the project and the cmakelists.txt to run the project across platforms. [Reach out via email](mailto:shera.adams@snhu.edu) to obtain a full zipped project file for the cross-platform 3D game engine. 
+
 <div align="center">
   <p>Before:</p>
 </div>
