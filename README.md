@@ -8,7 +8,7 @@ I started this project with the intention to visually recreate this two-dimensio
 </div>
     
 <div align="center">
-  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/6ee964f7-8596-4de2-ae74-5ca1a30ebf9d" width="800" alt="Screenshot: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/7c35eb5e-f9c8-4c99-b3d3-163540df7435" width="800" alt="Wireframe">
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@ I started this project with the intention to visually recreate this two-dimensio
 </div>
     
 <div align="center">
-  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/a7555de6-ef08-4614-900d-48862020b3c4" width="800" alt="Screenshot: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/5334d84c-96dc-48b0-9d5e-3c3d7ea70bd9" width="800" alt="Updated GUI">
 </div>
 
 <div align="center">
@@ -24,12 +24,12 @@ I started this project with the intention to visually recreate this two-dimensio
 </div>
     
 <div align="center">
-  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/3ec229b2-bf41-4c9c-bcbf-20cf2e2188da" width="800" alt="Screenshot: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/98ed259c-cd4b-4376-8f8f-df1b1a77d3b4" width="800" alt="Updated GUI">
 </div>
 
 ## The OpenGL Pipeline 
 <div align="center">
-  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/bc99563b-a432-4c03-8205-b944feb31223"
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/88a8047d-4105-41e8-8ec3-c06d9e55139f"
  width="900" alt="Screenshot: d4">
 </div>
 
@@ -217,7 +217,7 @@ With ImGui, we can now resize and manipulate our objects with sliders and see th
 When we slide the xx slider to the right, the object becomes bigger on the horizontal axis. When we slide it to the left, it becomes smaller on the horizontal axis. When we slide the yy slider to the right, the object becomes bigger on the vertical axis. When we slide it to the left, the object becomes smaller on the vertical axis. 
 
 <div align="center">
-  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/1641ba8d-6399-41fc-880c-6e087bf9f12d" width="300"  alt="Screenshot: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/0763faef-cd9d-421b-866a-49669b68eb7d" width="300"  alt="Screenshot: d4">
 </div>
 
 
@@ -229,7 +229,7 @@ For access, vectors have a worst-case runtime space complexity of O(N) where N i
 
 
 <div align="center">
-  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/d0902121-7c45-42bd-8964-b1ce65001cd2" width="800" alt="Data Structures and Algorithms: d4">
+  <img src="https://github.com/sheraadams/C-OpenGL-Metal-Work/assets/110789514/7c97d37c-0c88-4db7-8f02-59c5115935c7" width="800" alt="Data Structures and Algorithms: d4">
 </div>
 
 Image Credit: (Eric Drowell, n.d.) 
