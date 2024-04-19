@@ -3,6 +3,8 @@
 
 I started this project with the intention to visually recreate this two-dimensional classroom scene in a more realistic manner using three-dimensional graphics in an interactive environment to allow for a more surreal and interesting user experience. To accomplish this, I used shapes including spheres, planes, cubes, pyramids, rectangular prisms, and modified versions of these shapes. You can read about some of the process that I went through developing and improving this engine at [sheraadams.github.io](https://sheraadams.github.io) and watch my video code review linked on that page. 
 
+The final engine with the Dear ImGui over lay is also [on YouTube](https://youtu.be/82KOBQVYH-I).
+
 <div align="center">
   <p>Before:</p>
 </div>
