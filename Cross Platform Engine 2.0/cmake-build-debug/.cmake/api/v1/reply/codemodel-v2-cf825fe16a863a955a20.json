@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SheraAdamsProject330",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GLAD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GLAD-Debug-b84055034e01ec4f798d.json",
+					"name" : "GLAD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IMGUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IMGUI-Debug-c5d2a27c0e5e5ae28ea5.json",
+					"name" : "IMGUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STB_IMAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STB_IMAGE-Debug-c8c780b06e2f59eaff23.json",
+					"name" : "STB_IMAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sa__app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sa__app-Debug-9edb93bb13553c5478cb.json",
+					"name" : "sa__app",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/s.adams/Documents/GitHub/C-OpenGL-Metal-Work/Cross Platform Engine 2.0/cmake-build-debug",
+		"source" : "/Users/s.adams/Documents/GitHub/C-OpenGL-Metal-Work/Cross Platform Engine 2.0"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
