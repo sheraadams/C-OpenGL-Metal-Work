@@ -358,6 +358,28 @@ We can scroll through these textures with a slider using ImGui as below:
 Vectors are, many times, the data structure of choice for OpenGL. Vectors easily pass information back and forth from the shader and to functions. They can store information about vertices, coordinates, and textures. They also allow for easy linear transformations. 
 
 
-<div align="center">
-  <p><strong>Proudly crafted with ❤️ by Shera Adams.</strong></p>
-</div>
+## XCode Usage
+
+Open a terminal in the project directory and run the code to remove the old build folder and generate a new one with the Xcode project file.
+
+```bash
+mkdir build
+cd build
+cmake -G Xcode ..
+
+#Usage: when updating the build folder, remove it first then regenerate the folder as above
+rm -rf build 
+```
+Set the working directory in Xcode using Product > Scheme > Edit Scheme > Run Debug > Options > Working Directory > (Check Set Custom) > Project directory/build.
+
+Build and run the project.
+
+## License:
+
+The code is based on various tutorial code from LearnOpenGL.com.
+
+Tutorial code is © Joey DeVries and licensed under the CC BY 4.0 License.
+
+Modifications and additional contributions are © Shera Adams and licensed under the Apache 2.0 License.
+
+Proudly crafted with ❤️ by Shera Adams.
